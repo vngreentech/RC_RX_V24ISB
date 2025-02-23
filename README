@@ -1,0 +1,15 @@
+
+RC RX V24ISB
+
+Ibus output signal
+
+Use with TX V24OL
+
+- STM32F103C8T6
+- NRF24L01 (Capa 10-20uF 16-35V)
+- DC-DC Buck 5v to 3.3v 1A-3A
+- Led + 220ohm
+
+Author: NhanNguyen
+Youtube: https://www.youtube.com/@GreenTechnology_GreenGroup
+Website: https://vngreentech.com/ 
